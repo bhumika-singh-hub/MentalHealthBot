@@ -17,9 +17,8 @@ positive_responses = [
 neutral_responses = [
     "I'm here if you want to talk.",
     "Would you like to tell me more?",
-    "Feel free to share anything that's on your mind.",
-    "And, how did that make you feel?"
-]
+    "Feel free to share anything that's on your mind."
+    ]
 
 negative_responses = [
     "I'm sorry you're feeling this way. You're not alone.",
